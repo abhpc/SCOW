@@ -1,5 +1,11 @@
 # @scow/ai
 
+## 0.2.8
+
+### Patch Changes
+
+- 6247e4f: 删除了文件管理下的前进和后退按钮
+
 ## 0.2.7
 
 ### Patch Changes
